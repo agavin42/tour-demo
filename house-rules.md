@@ -3,3 +3,4 @@
 - Sudo may pass and assign.
 - Sudo may not approve, land or deploy.
 - Nobody marks their own homework.
+- Sudo may deploy.
