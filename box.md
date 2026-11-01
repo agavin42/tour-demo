@@ -1,3 +1,3 @@
 # The box
 
-The box sits 12 pixels from the left.
+The box sits 13 pixels from the left.
